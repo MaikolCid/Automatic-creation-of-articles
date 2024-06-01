@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>PLG_SYSTEM_CREATESUBDIRECTORYARTICLES</name>
+    <author>Your Name</author>
+    <version>1.0.0</version>
+    <description>Automatically creates Joomla articles when a new subdirectory is created.</description>
+    <files>
+        <filename plugin="createsubdirectoryarticles">createsubdirectoryarticles.php</filename>
+    </files>
+</extension>
